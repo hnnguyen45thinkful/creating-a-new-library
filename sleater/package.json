@@ -1,12 +1,11 @@
 {
-  "name": "musicians",
+  "name": "sleater",
   "version": "1.0.0",
   "description": "",
-  "main": "musicians.js",
+  "main": "sleater.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hieu Nguyen",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
